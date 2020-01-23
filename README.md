@@ -1,10 +1,10 @@
 # Simple Blog with ruby on rails
 
-> You should be able to search for a specific location and toggle displaying the data in Fahrenheit or Celsius.
+> A regularly updated website or web page, typically one run by an individual or small group, that is written in an informal or conversational style.
 
 ![screenshot](./app_screenshot.png)
 
-Satisfy any craving with delivery from popular neighborhood restaurants and chains. Reorder go-tos or find something new.
+A discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries. Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page.
 
 ## Built With
 
