@@ -1,24 +1,65 @@
-# README
+# Simple Blog with ruby on rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> You should be able to search for a specific location and toggle displaying the data in Fahrenheit or Celsius.
 
-Things you may want to cover:
+![screenshot](./app_screenshot.png)
 
-* Ruby version
+Satisfy any craving with delivery from popular neighborhood restaurants and chains. Reorder go-tos or find something new.
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on rails
 
-* Database creation
+## Live Demo
 
-* Database initialization
+[Live Demo Link](#)
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+**This is an example of how you may give instructions on setting up your project locally.**
 
-* Deployment instructions
+To get a local copy up and running follow these simple example steps.
 
-* ...
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+## Authors
+
+👤 **Author1**
+
+- Github: [@r4ajeti](https://github.com/r4ajeti)
+- Twitter: [@r4ajeti](https://twitter.com/r4ajeti)
+- Linkedin: [linkedin](https://linkedin.com/r4ajeti)
+- Email: [Gmail](mailto:r4ajeti@gmail.com))
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
+
+:¨·.·¨: :¨·.·¨: ·. ƮϦαɳk Ψөu .·
+
